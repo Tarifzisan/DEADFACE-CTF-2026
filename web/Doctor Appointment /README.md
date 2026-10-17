@@ -1,7 +1,7 @@
 # Doctor Appointment (DEADFACE CTF 2026)
 
 **Category:** Web  
-**Points:** 26  
+**Points:** 50 
 **Author:** @RP-01?  
 **Target:** `http://45.79.200.170:3000/`
 
