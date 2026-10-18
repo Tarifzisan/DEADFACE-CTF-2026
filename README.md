@@ -1,20 +1,30 @@
-# DEADFACE-CTF-2026
-DEADFACE CTF features jeopardy-style challenges and is hosted by Cyber Hacktics and veterans of the United States Air Force in support of National Cyber Security Awareness Month.
+## 🏴 DEADFACE CTF 2026
 
+DEADFACE CTF is an online, Jeopardy-style Capture The Flag (CTF) competition hosted by **Cyber Hacktics** and U.S. Air Force veterans in support of **National Cybersecurity Awareness Month (NCSAM)**.
 
-Key Information
+The competition features immersive, narrative-driven challenges designed to test practical cybersecurity skills across multiple domains. It welcomes participants of all skill levels, making it a great opportunity for beginners and intermediate players to sharpen their technical and problem-solving abilities.
 
-• Format: Online, Jeopardy-style
-• Target Audience: Open to all skill levels (excellent for beginners to intermediate players)
-• Duration: 34 hours
-• Cost: Completely free
-• Rating Weight: 35.39 on CTFtime
+### 📌 Event Information
 
-Challenge Categories & Features
+- **Format:** Online, Jeopardy-style
+- **Duration:** 34 Hours
+- **Cost:** Completely Free
+- **Target Audience:** All Skill Levels
+- **CTFtime Rating Weight:** 35.39
+- **Organizer:** Cyber Hacktics & U.S. Air Force Veterans
 
-The 2026 edition features over 80 immersive, narrative-based challenges across staple cybersecurity domains:
-• Web Exploitation
-• Cryptography
-• Network Analysis / Forensics
-• Reverse Engineering
-• Mobile Challenges (New for this year's event)
+### 🔍 Challenge Categories
+
+The 2026 edition features **80+ challenges** across various cybersecurity domains:
+
+- 🌐 Web Exploitation
+- 🔐 Cryptography
+- 📡 Network Analysis & Digital Forensics
+- ⚙️ Reverse Engineering
+- 📱 Mobile Security *(New in 2026)*
+
+### 🎯 Competition Experience
+
+Participating in DEADFACE CTF 2026 provided an opportunity to explore real-world cybersecurity scenarios, strengthen practical technical skills, and solve challenges involving different areas of information security.
+
+---
