@@ -1,4 +1,4 @@
-# Doctor Appointment (DEADFACE CTF 2026)
+# Doctor Appointment (1 of 4 series)
 
 **Category:** Web  
 **Points:** 50 
